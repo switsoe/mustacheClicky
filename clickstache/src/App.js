@@ -98,7 +98,7 @@ import "./App.css";
         <Container>
           <Row>
             {this.state.friends.map(friend => (
-              <Column size="md-4">
+              <Column size="md-3 sm-6">
                 <FriendCard
                   key={friend.id}
                   handleClick={this.handleClick}
