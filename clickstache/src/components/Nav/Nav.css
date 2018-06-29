@@ -1,19 +1,19 @@
 nav {
     width: 100%;
     font-size: 3rem;
-    color: #fff;
+    color: antiquewhite;
     margin-bottom: 50px;
     background-color: rgb(56, 56, 56);
     height: auto;
-    font-family: 'Bungee', cursive;
+    font-family: 'Limelight', cursive;
   }
   
   a {
-    color: #fed420;
+    color: rgb(116, 116, 116);
   }
   
   a:hover {
-    color: #fed420;
+    color: antiquewhite;
     text-decoration: none;
   }
   
